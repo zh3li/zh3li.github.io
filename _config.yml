@@ -130,5 +130,5 @@ comments:
 
 utterances:
   theme: "github-light"
-  issue_term: "pathname"
+  issue_term: pathname
   label: "comment"      # 如不用可删掉这一行
