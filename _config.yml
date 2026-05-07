@@ -129,6 +129,7 @@ comments:
   provider: "utterances"
 
 utterances:
+  url: "https://zh3li.github.io"
   theme: "github-light"
   issue_term: pathname
   label: "comment"      # 如不用可删掉这一行
