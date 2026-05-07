@@ -123,3 +123,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+  # ===== 新增：Utterances 评论 =====
+comments:
+  provider: "utterances"
+
+utterances:
+  theme: "github-light"
+  issue_term: "pathname"
+  label: "comment"      # 如不用可删掉这一行
