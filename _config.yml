@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Zhe Li's Blog
+url: "https://zh3li.github.io"
 email: 
 repository: "zh3li/zh3li.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
@@ -129,7 +130,6 @@ comments:
   provider: "utterances"
 
 utterances:
-  url: "https://zh3li.github.io"
   theme: "github-light"
   issue_term: pathname
   label: "comment"      # 如不用可删掉这一行
